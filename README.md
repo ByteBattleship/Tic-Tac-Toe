@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-Tic Tac Toe games
+#Tic Tac Toe
